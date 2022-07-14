@@ -5,5 +5,5 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
-- Ciências da Computação
-- Linguagem Python
+- Criar sites
+- Criar softwares
